@@ -7,10 +7,10 @@ This project was developed as part of the **Meta Kaggle Hackathon 2025**. It exp
 
 We analyzed notebook metadata from 2015 to 2024 and categorized each into stack types using associated tags. Key deliverables include:
 
-- 📘 Dataset Merging & Preprocessing (Day 1)
-- 📈 Stack Trend Analysis Over Time (Day 2)
-- 📊 Stack Categorization & Author Contributions (Day 3)
-- 💻 Final Streamlit Dashboard Deployment (Day 4)
+- 📘 Dataset Merging & Preprocessing 
+- 📈 Stack Trend Analysis Over Time 
+- 📊 Stack Categorization & Author Contributions 
+- 💻 Final Streamlit Dashboard Deployment 
 
 ---
 
@@ -24,7 +24,7 @@ We analyzed notebook metadata from 2015 to 2024 and categorized each into stack 
 
 | File | Description |
 |------|-------------|
-| `tech_stack_evolution_dashboard_final.py` | Streamlit dashboard app (Days 1–4 combined) |
+| `tech_stack_evolution_dashboard_final.py` | Streamlit dashboard app |
 | `day3_notebooks_with_stack.csv` | Preprocessed dataset with notebook-stack mapping |
 | `day3_stack_trends.csv` | Year-wise stack usage counts |
 | `requirements.txt` | Required Python packages |
